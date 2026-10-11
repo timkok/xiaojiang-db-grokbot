@@ -1,0 +1,257 @@
+{
+ "as_of": "2026-10-11",
+ "players": [
+  {
+   "id": "P0001",
+   "name": "万项",
+   "slug": "wan-xiang",
+   "aliases": [],
+   "birth_year": 2009,
+   "birth_year_source_ids": [
+    "S007"
+   ],
+   "position": "中场",
+   "position_source_ids": [
+    "S007"
+   ],
+   "identity_notes": "2009年生于黑龙江七台河；2020年进入湖北足协星辉青训学院；2026年2月签约贝尔格莱德红星。",
+   "current_unit": {
+    "name": "贝尔格莱德红星（U17梯队）",
+    "country": "塞尔维亚",
+    "as_of": "2026-05-23",
+    "source_ids": [
+     "S006"
+    ]
+   },
+   "abroad_history": [
+    {
+     "club": "贝尔格莱德红星",
+     "country": "塞尔维亚",
+     "from": "2026-02",
+     "to": null,
+     "source_ids": [
+      "S006",
+      "S007"
+     ]
+    }
+   ],
+   "verification_status": "confirmed"
+  },
+  {
+   "id": "P0002",
+   "name": "邝兆镭",
+   "slug": "kuang-zhaolei",
+   "aliases": [],
+   "birth_year": 2009,
+   "birth_year_source_ids": [
+    "S007",
+    "S013"
+   ],
+   "position": "前锋",
+   "position_source_ids": [
+    "S007"
+   ],
+   "identity_notes": "2009年生于广州（第一财经）；青岛日报称3月13日生日；9岁加入中国足球小将；2023—2025年在西班牙踢球，2026年加盟青岛海牛。足协第一期名单所属单位“其他”，第二、五期为青岛海牛足球俱乐部。",
+   "current_unit": {
+    "name": "青岛海牛足球俱乐部",
+    "country": "中国",
+    "as_of": "2026-07-25",
+    "source_ids": [
+     "S002"
+    ]
+   },
+   "abroad_history": [
+    {
+     "club": "西班牙青年梯队（具体俱乐部未经可靠来源核实）",
+     "country": "西班牙",
+     "from": "2023",
+     "to": "2025",
+     "source_ids": [
+      "S007"
+     ]
+    }
+   ],
+   "verification_status": "confirmed"
+  },
+  {
+   "id": "P0003",
+   "name": "周雨诺",
+   "slug": "zhou-yunuo",
+   "aliases": [],
+   "birth_year": null,
+   "birth_year_source_ids": [],
+   "position": "中场",
+   "position_source_ids": [
+    "S007"
+   ],
+   "identity_notes": "足协名单所属单位为清华大学附属中学；第一财经称其为U17亚洲杯队长。",
+   "current_unit": {
+    "name": "清华大学附属中学",
+    "country": "中国",
+    "as_of": "2026-07-25",
+    "source_ids": [
+     "S002"
+    ]
+   },
+   "abroad_history": [],
+   "verification_status": "confirmed"
+  },
+  {
+   "id": "P0004",
+   "name": "南子勋",
+   "slug": "nan-zixun",
+   "aliases": [],
+   "birth_year": null,
+   "birth_year_source_ids": [],
+   "position": "后卫",
+   "position_source_ids": [
+    "S007"
+   ],
+   "identity_notes": "足协名单所属单位为清华大学附属中学。",
+   "current_unit": {
+    "name": "清华大学附属中学",
+    "country": "中国",
+    "as_of": "2026-07-25",
+    "source_ids": [
+     "S002"
+    ]
+   },
+   "abroad_history": [],
+   "verification_status": "confirmed"
+  },
+  {
+   "id": "P0005",
+   "name": "赵松源",
+   "slug": "zhao-songyuan",
+   "aliases": [],
+   "birth_year": null,
+   "birth_year_source_ids": [],
+   "position": "前锋",
+   "position_source_ids": [
+    "S006"
+   ],
+   "identity_notes": "身高超过1米9（新华社）；小学毕业后进入清华附中；曾代表北京队参加全运会。",
+   "current_unit": {
+    "name": "清华大学附属中学",
+    "country": "中国",
+    "as_of": "2026-07-25",
+    "source_ids": [
+     "S002"
+    ]
+   },
+   "abroad_history": [],
+   "verification_status": "partially_confirmed"
+  },
+  {
+   "id": "P0006",
+   "name": "帅惟浩",
+   "slug": "shuai-weihao",
+   "aliases": [],
+   "birth_year": null,
+   "birth_year_source_ids": [],
+   "position": "前锋",
+   "position_source_ids": [
+    "S006"
+   ],
+   "identity_notes": "成都人；成都足协德瑞青训中心出身（新华社）；2025年5月以16岁117天在中乙为成都蓉城B队进球（可推算出生年份，但无来源直接给出，暂为未知）。足协第一、四期及第五期补充通知所属单位为成都蓉城足球俱乐部，第二期名单写作“其他”。",
+   "current_unit": {
+    "name": "成都蓉城足球俱乐部",
+    "country": "中国",
+    "as_of": "2026-08-03",
+    "source_ids": [
+     "S022"
+    ]
+   },
+   "abroad_history": [],
+   "verification_status": "partially_confirmed"
+  },
+  {
+   "id": "P0007",
+   "name": "谢晋",
+   "slug": "xie-jin",
+   "aliases": [
+    "谢 晋"
+   ],
+   "birth_year": null,
+   "birth_year_source_ids": [],
+   "position": null,
+   "position_source_ids": [],
+   "identity_notes": "足协第二期名单所属单位为“皇家卡拉万切尔足球俱乐部”（S021）；第四期名单写作“谢 晋”、所属单位“其他”（S001）。俱乐部所在国家来源未写明，暂不计入留洋。",
+   "current_unit": {
+    "name": "其他（足协名单原文）",
+    "country": null,
+    "as_of": "2026-06-27",
+    "source_ids": [
+     "S001"
+    ]
+   },
+   "abroad_history": [],
+   "verification_status": "partially_confirmed"
+  },
+  {
+   "id": "P0008",
+   "name": "张伯霖",
+   "slug": "zhang-bolin",
+   "aliases": [],
+   "birth_year": null,
+   "birth_year_source_ids": [],
+   "position": null,
+   "position_source_ids": [],
+   "identity_notes": "足协第一期名单所属单位为“河南星途足球俱乐部”（S020）；第二、四期为“其他”。",
+   "current_unit": {
+    "name": "其他（足协名单原文）",
+    "country": null,
+    "as_of": "2026-06-27",
+    "source_ids": [
+     "S001"
+    ]
+   },
+   "abroad_history": [],
+   "verification_status": "partially_confirmed"
+  },
+  {
+   "id": "P0009",
+   "name": "李钧鹏",
+   "slug": "li-junpeng",
+   "aliases": [
+    "李均鹏"
+   ],
+   "birth_year": null,
+   "birth_year_source_ids": [],
+   "position": null,
+   "position_source_ids": [],
+   "identity_notes": "足协第一、二期名单所属单位为山东鲁能泰山足球学校（S020/S021），第四期为山东泰山足球俱乐部（S001）；自媒体曾写作“李均鹏”。",
+   "current_unit": {
+    "name": "山东泰山足球俱乐部",
+    "country": "中国",
+    "as_of": "2026-06-27",
+    "source_ids": [
+     "S001"
+    ]
+   },
+   "abroad_history": [],
+   "verification_status": "partially_confirmed"
+  },
+  {
+   "id": "P0010",
+   "name": "汪修昊",
+   "slug": "wang-xiuhao",
+   "aliases": [],
+   "birth_year": null,
+   "birth_year_source_ids": [],
+   "position": null,
+   "position_source_ids": [],
+   "identity_notes": "足协第二期集训名单所属单位为“达姆足球俱乐部”（S021，国家未写明）；未出现在第一、四、五期名单；亚洲杯名单仅自媒体S017提及（未核实）。",
+   "current_unit": {
+    "name": "达姆足球俱乐部",
+    "country": null,
+    "as_of": "2026-03-11",
+    "source_ids": [
+     "S021"
+    ]
+   },
+   "abroad_history": [],
+   "verification_status": "partially_confirmed"
+  }
+ ]
+}

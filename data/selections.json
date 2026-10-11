@@ -1,0 +1,1081 @@
+[
+ {
+  "id": "SEL001",
+  "player_id": "P0006",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第一期集训",
+  "selection_date": "2026-01-18",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-12",
+  "location": "广东深圳",
+  "unit_as_listed": "成都蓉城足球俱乐部",
+  "name_as_listed": "帅惟浩",
+  "verification": "verified",
+  "source_ids": [
+   "S020"
+  ],
+  "evidence": [
+   {
+    "source_id": "S020",
+    "excerpt": "成都蓉城足球俱乐部：…帅惟浩",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL002",
+  "player_id": "P0009",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第一期集训",
+  "selection_date": "2026-01-18",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-12",
+  "location": "广东深圳",
+  "unit_as_listed": "山东鲁能泰山足球学校",
+  "name_as_listed": "李钧鹏",
+  "verification": "verified",
+  "source_ids": [
+   "S020"
+  ],
+  "evidence": [
+   {
+    "source_id": "S020",
+    "excerpt": "山东鲁能泰山足球学校：…李钧鹏",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL003",
+  "player_id": "P0003",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第一期集训",
+  "selection_date": "2026-01-18",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-12",
+  "location": "广东深圳",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "周雨诺",
+  "verification": "verified",
+  "source_ids": [
+   "S020"
+  ],
+  "evidence": [
+   {
+    "source_id": "S020",
+    "excerpt": "清华大学附属中学：…周雨诺",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL004",
+  "player_id": "P0004",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第一期集训",
+  "selection_date": "2026-01-18",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-12",
+  "location": "广东深圳",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "南子勋",
+  "verification": "verified",
+  "source_ids": [
+   "S020"
+  ],
+  "evidence": [
+   {
+    "source_id": "S020",
+    "excerpt": "清华大学附属中学：…南子勋",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL005",
+  "player_id": "P0005",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第一期集训",
+  "selection_date": "2026-01-18",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-12",
+  "location": "广东深圳",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "赵松源",
+  "verification": "verified",
+  "source_ids": [
+   "S020"
+  ],
+  "evidence": [
+   {
+    "source_id": "S020",
+    "excerpt": "清华大学附属中学：…赵松源",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL006",
+  "player_id": "P0008",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第一期集训",
+  "selection_date": "2026-01-18",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-12",
+  "location": "广东深圳",
+  "unit_as_listed": "河南星途足球俱乐部",
+  "name_as_listed": "张伯霖",
+  "verification": "verified",
+  "source_ids": [
+   "S020"
+  ],
+  "evidence": [
+   {
+    "source_id": "S020",
+    "excerpt": "河南星途足球俱乐部：…张伯霖",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL007",
+  "player_id": "P0002",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第一期集训",
+  "selection_date": "2026-01-18",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-12",
+  "location": "广东深圳",
+  "unit_as_listed": "其他",
+  "name_as_listed": "邝兆镭",
+  "verification": "verified",
+  "source_ids": [
+   "S020"
+  ],
+  "evidence": [
+   {
+    "source_id": "S020",
+    "excerpt": "其他：…邝兆镭",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL008",
+  "player_id": "P0002",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "青岛海牛足球俱乐部",
+  "name_as_listed": "邝兆镭",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "青岛海牛足球俱乐部：…邝兆镭",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL009",
+  "player_id": "P0009",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "山东鲁能泰山足球学校",
+  "name_as_listed": "李钧鹏",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "山东鲁能泰山足球学校：…李钧鹏",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL010",
+  "player_id": "P0003",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "周雨诺",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "清华大学附属中学：…周雨诺",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL011",
+  "player_id": "P0004",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "南子勋",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "清华大学附属中学：…南子勋",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL012",
+  "player_id": "P0005",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "赵松源",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "清华大学附属中学：…赵松源",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL013",
+  "player_id": "P0001",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "贝尔格莱德红星足球俱乐部",
+  "name_as_listed": "万项",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "贝尔格莱德红星足球俱乐部：…万项",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL014",
+  "player_id": "P0010",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "达姆足球俱乐部",
+  "name_as_listed": "汪修昊",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "达姆足球俱乐部：…汪修昊",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL015",
+  "player_id": "P0007",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "皇家卡拉万切尔足球俱乐部",
+  "name_as_listed": "谢晋",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "皇家卡拉万切尔足球俱乐部：…谢晋",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL016",
+  "player_id": "P0006",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "其他",
+  "name_as_listed": "帅惟浩",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "其他：…帅惟浩",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL017",
+  "player_id": "P0008",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第二期集训",
+  "selection_date": "2026-03-11",
+  "period_start": "2026-03-13",
+  "period_end": "2026-04-01",
+  "location": "广东肇庆",
+  "unit_as_listed": "其他",
+  "name_as_listed": "张伯霖",
+  "verification": "verified",
+  "source_ids": [
+   "S021"
+  ],
+  "evidence": [
+   {
+    "source_id": "S021",
+    "excerpt": "其他：…张伯霖",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL018",
+  "player_id": "P0006",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第四期集训（含2026CFA中国之队·银川国际青年足球锦标赛）",
+  "selection_date": "2026-06-27",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-12",
+  "location": "宁夏银川",
+  "unit_as_listed": "成都蓉城足球俱乐部",
+  "name_as_listed": "帅惟浩",
+  "verification": "verified",
+  "source_ids": [
+   "S001"
+  ],
+  "evidence": [
+   {
+    "source_id": "S001",
+    "excerpt": "成都蓉城足球俱乐部：…帅惟浩",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL019",
+  "player_id": "P0009",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第四期集训（含2026CFA中国之队·银川国际青年足球锦标赛）",
+  "selection_date": "2026-06-27",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-12",
+  "location": "宁夏银川",
+  "unit_as_listed": "山东泰山足球俱乐部",
+  "name_as_listed": "李钧鹏",
+  "verification": "verified",
+  "source_ids": [
+   "S001"
+  ],
+  "evidence": [
+   {
+    "source_id": "S001",
+    "excerpt": "山东泰山足球俱乐部：…李钧鹏",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL020",
+  "player_id": "P0003",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第四期集训（含2026CFA中国之队·银川国际青年足球锦标赛）",
+  "selection_date": "2026-06-27",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-12",
+  "location": "宁夏银川",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "周雨诺",
+  "verification": "verified",
+  "source_ids": [
+   "S001"
+  ],
+  "evidence": [
+   {
+    "source_id": "S001",
+    "excerpt": "清华大学附属中学：…周雨诺",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL021",
+  "player_id": "P0004",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第四期集训（含2026CFA中国之队·银川国际青年足球锦标赛）",
+  "selection_date": "2026-06-27",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-12",
+  "location": "宁夏银川",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "南子勋",
+  "verification": "verified",
+  "source_ids": [
+   "S001"
+  ],
+  "evidence": [
+   {
+    "source_id": "S001",
+    "excerpt": "清华大学附属中学：…南子勋",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL022",
+  "player_id": "P0005",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第四期集训（含2026CFA中国之队·银川国际青年足球锦标赛）",
+  "selection_date": "2026-06-27",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-12",
+  "location": "宁夏银川",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "赵松源",
+  "verification": "verified",
+  "source_ids": [
+   "S001"
+  ],
+  "evidence": [
+   {
+    "source_id": "S001",
+    "excerpt": "清华大学附属中学：…赵松源",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL023",
+  "player_id": "P0008",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第四期集训（含2026CFA中国之队·银川国际青年足球锦标赛）",
+  "selection_date": "2026-06-27",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-12",
+  "location": "宁夏银川",
+  "unit_as_listed": "其他",
+  "name_as_listed": "张伯霖",
+  "verification": "verified",
+  "source_ids": [
+   "S001"
+  ],
+  "evidence": [
+   {
+    "source_id": "S001",
+    "excerpt": "其他：…张伯霖",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL024",
+  "player_id": "P0007",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第四期集训（含2026CFA中国之队·银川国际青年足球锦标赛）",
+  "selection_date": "2026-06-27",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-12",
+  "location": "宁夏银川",
+  "unit_as_listed": "其他",
+  "name_as_listed": "谢 晋",
+  "verification": "verified",
+  "source_ids": [
+   "S001"
+  ],
+  "evidence": [
+   {
+    "source_id": "S001",
+    "excerpt": "其他：…谢 晋",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": "名单原文“谢 晋”含空格，按别名归并至谢晋。"
+ },
+ {
+  "id": "SEL025",
+  "player_id": "P0002",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第五期集训（含2026上海明日之星冠军杯）",
+  "selection_date": "2026-07-25",
+  "period_start": "2026-07-27",
+  "period_end": "2026-08-10",
+  "location": "上海",
+  "unit_as_listed": "青岛海牛足球俱乐部",
+  "name_as_listed": "邝兆镭",
+  "verification": "verified",
+  "source_ids": [
+   "S002"
+  ],
+  "evidence": [
+   {
+    "source_id": "S002",
+    "excerpt": "青岛海牛足球俱乐部：…邝兆镭",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL026",
+  "player_id": "P0003",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第五期集训（含2026上海明日之星冠军杯）",
+  "selection_date": "2026-07-25",
+  "period_start": "2026-07-27",
+  "period_end": "2026-08-10",
+  "location": "上海",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "周雨诺",
+  "verification": "verified",
+  "source_ids": [
+   "S002"
+  ],
+  "evidence": [
+   {
+    "source_id": "S002",
+    "excerpt": "清华大学附属中学：…周雨诺",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL027",
+  "player_id": "P0004",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第五期集训（含2026上海明日之星冠军杯）",
+  "selection_date": "2026-07-25",
+  "period_start": "2026-07-27",
+  "period_end": "2026-08-10",
+  "location": "上海",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "南子勋",
+  "verification": "verified",
+  "source_ids": [
+   "S002"
+  ],
+  "evidence": [
+   {
+    "source_id": "S002",
+    "excerpt": "清华大学附属中学：…南子勋",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL028",
+  "player_id": "P0005",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "training_camp",
+  "event_name": "U17 2026年第五期集训（含2026上海明日之星冠军杯）",
+  "selection_date": "2026-07-25",
+  "period_start": "2026-07-27",
+  "period_end": "2026-08-10",
+  "location": "上海",
+  "unit_as_listed": "清华大学附属中学",
+  "name_as_listed": "赵松源",
+  "verification": "verified",
+  "source_ids": [
+   "S002"
+  ],
+  "evidence": [
+   {
+    "source_id": "S002",
+    "excerpt": "清华大学附属中学：…赵松源",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL029",
+  "player_id": "P0006",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "supplementary_call_up",
+  "event_name": "U17 2026年第五期集训（补充征调）",
+  "selection_date": "2026-08-03",
+  "period_start": "2026-08-03",
+  "period_end": "2026-08-10",
+  "location": "上海",
+  "unit_as_listed": "成都蓉城足球俱乐部",
+  "name_as_listed": "帅惟浩",
+  "verification": "verified",
+  "source_ids": [
+   "S022"
+  ],
+  "evidence": [
+   {
+    "source_id": "S022",
+    "excerpt": "现补充征调贵俱乐部运动员帅惟浩参加本期集训",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection",
+     "unit_as_listed"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "SEL030",
+  "player_id": "P0001",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "tournament_squad_evidenced_by_appearance",
+  "event_name": "2026亚足联U17亚洲杯（决赛阶段）",
+  "selection_date": "2026-05-09",
+  "period_start": null,
+  "period_end": "2026-05-22",
+  "location": "沙特阿拉伯",
+  "unit_as_listed": null,
+  "name_as_listed": null,
+  "verification": "verified",
+  "source_ids": [
+   "S006"
+  ],
+  "evidence": [
+   {
+    "source_id": "S006",
+    "excerpt": "5月9日，中国队球员万项在比赛中带球突破",
+    "excerpt_type": "quote",
+    "supports": [
+     "selection_by_appearance"
+    ]
+   }
+  ],
+  "note": "依据实际出场证据推定在2026亚足联U17亚洲杯参赛名单中；selection_date为最早有证据的出场日期（当地日期），不是名单公布日期。官方名单公布页未核读。",
+  "evidenced_by_match_id": "M002"
+ },
+ {
+  "id": "SEL031",
+  "player_id": "P0006",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "tournament_squad_evidenced_by_appearance",
+  "event_name": "2026亚足联U17亚洲杯（决赛阶段）",
+  "selection_date": "2026-05-12",
+  "period_start": null,
+  "period_end": "2026-05-22",
+  "location": "沙特阿拉伯",
+  "unit_as_listed": null,
+  "name_as_listed": null,
+  "verification": "verified",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "1/4决赛首发相较小组赛末轮：邝兆镭替换帅惟浩（即帅惟浩首发了对卡塔尔一场）",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "selection_by_appearance"
+    ]
+   }
+  ],
+  "note": "依据实际出场证据推定在2026亚足联U17亚洲杯参赛名单中；selection_date为最早有证据的出场日期（当地日期），不是名单公布日期。官方名单公布页未核读。对卡塔尔比赛日期仅有自媒体S017给出的北京时间，日期置信度低。",
+  "evidenced_by_match_id": "M003"
+ },
+ {
+  "id": "SEL032",
+  "player_id": "P0002",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "tournament_squad_evidenced_by_appearance",
+  "event_name": "2026亚足联U17亚洲杯（决赛阶段）",
+  "selection_date": "2026-05-15",
+  "period_start": null,
+  "period_end": "2026-05-22",
+  "location": "沙特阿拉伯",
+  "unit_as_listed": null,
+  "name_as_listed": null,
+  "verification": "verified",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "第27分钟邝兆镭传中，万项破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "selection_by_appearance"
+    ]
+   }
+  ],
+  "note": "依据实际出场证据推定在2026亚足联U17亚洲杯参赛名单中；selection_date为最早有证据的出场日期（当地日期），不是名单公布日期。官方名单公布页未核读。",
+  "evidenced_by_match_id": "M004"
+ },
+ {
+  "id": "SEL033",
+  "player_id": "P0005",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "tournament_squad_evidenced_by_appearance",
+  "event_name": "2026亚足联U17亚洲杯（决赛阶段）",
+  "selection_date": "2026-05-15",
+  "period_start": null,
+  "period_end": "2026-05-22",
+  "location": "沙特阿拉伯",
+  "unit_as_listed": null,
+  "name_as_listed": null,
+  "verification": "verified",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "第59分钟何思凡头球摆渡，赵松源破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "selection_by_appearance"
+    ]
+   }
+  ],
+  "note": "依据实际出场证据推定在2026亚足联U17亚洲杯参赛名单中；selection_date为最早有证据的出场日期（当地日期），不是名单公布日期。官方名单公布页未核读。",
+  "evidenced_by_match_id": "M004"
+ },
+ {
+  "id": "SEL034",
+  "player_id": "P0003",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "tournament_squad_evidenced_by_appearance",
+  "event_name": "2026亚足联U17亚洲杯（决赛阶段）",
+  "selection_date": "2026-05-19",
+  "period_start": null,
+  "period_end": "2026-05-22",
+  "location": "沙特阿拉伯",
+  "unit_as_listed": null,
+  "name_as_listed": null,
+  "verification": "verified",
+  "source_ids": [
+   "S005"
+  ],
+  "evidence": [
+   {
+    "source_id": "S005",
+    "excerpt": "第49分钟周雨诺抢断后助攻帅惟浩破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "selection_by_appearance"
+    ]
+   }
+  ],
+  "note": "依据实际出场证据推定在2026亚足联U17亚洲杯参赛名单中；selection_date为最早有证据的出场日期（当地日期），不是名单公布日期。官方名单公布页未核读。",
+  "evidenced_by_match_id": "M005"
+ },
+ {
+  "id": "SEL035",
+  "player_id": "P0007",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "tournament_squad_evidenced_by_appearance",
+  "event_name": "2026亚足联U17亚洲杯（决赛阶段）",
+  "selection_date": "2026-05-19",
+  "period_start": null,
+  "period_end": "2026-05-22",
+  "location": "沙特阿拉伯",
+  "unit_as_listed": null,
+  "name_as_listed": null,
+  "verification": "verified",
+  "source_ids": [
+   "S005"
+  ],
+  "evidence": [
+   {
+    "source_id": "S005",
+    "excerpt": "第90+1分钟替补出场的谢晋破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "selection_by_appearance"
+    ]
+   }
+  ],
+  "note": "依据实际出场证据推定在2026亚足联U17亚洲杯参赛名单中；selection_date为最早有证据的出场日期（当地日期），不是名单公布日期。官方名单公布页未核读。",
+  "evidenced_by_match_id": "M005"
+ },
+ {
+  "id": "SEL036",
+  "player_id": "P0010",
+  "team": "中国U-17国家男子足球队",
+  "national_level": "U17",
+  "selection_type": "tournament_squad_claim",
+  "event_name": "2026亚足联U17亚洲杯（决赛阶段）",
+  "selection_date": "2026-04-29",
+  "period_start": null,
+  "period_end": null,
+  "location": null,
+  "unit_as_listed": null,
+  "name_as_listed": "汪修昊",
+  "verification": "unverified_claim",
+  "source_ids": [
+   "S017"
+  ],
+  "evidence": [
+   {
+    "source_id": "S017",
+    "excerpt": "检索摘要转述“中国U17官方”亚洲杯名单，含汪修昊（达姆足球俱乐部）",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "selection_claim"
+    ]
+   }
+  ],
+  "note": "仅自媒体检索摘要，原始官方名单未核读；不计入任何入选统计。selection_date取S017发布日期。"
+ }
+]

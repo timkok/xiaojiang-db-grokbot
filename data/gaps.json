@@ -1,0 +1,254 @@
+[
+ {
+  "id": "G001",
+  "player_id": null,
+  "area": "selection",
+  "description": "2026年U17第三期集训通知未在足协“往期名单”页出现，可能不存在或未归档。",
+  "suggested_source": "thecfa.cn U17栏目、足协公告"
+ },
+ {
+  "id": "G002",
+  "player_id": null,
+  "area": "selection",
+  "description": "U17亚洲杯23人正式名单公布页未核读；当前亚洲杯入选仅凭出场证据推定。",
+  "suggested_source": "足协/中国之队官方发布（约2026-04-29）"
+ },
+ {
+  "id": "G003",
+  "player_id": null,
+  "area": "match",
+  "description": "U17亚洲杯小组赛三场（对印尼、日本、卡塔尔）战报正文未核读：首发、进球者、场馆未知；日期依赖自媒体S017。",
+  "suggested_source": "thecfa.cn 小组赛战报、亚足联比赛页"
+ },
+ {
+  "id": "G004",
+  "player_id": null,
+  "area": "match",
+  "description": "2026上海明日之星冠军杯决赛（8月9日14:30 对阿森纳U17）战报未核读。",
+  "suggested_source": "thecfa.cn xinwenu17 栏目"
+ },
+ {
+  "id": "G005",
+  "player_id": null,
+  "area": "match",
+  "description": "全部国字号比赛无完整首发/替补名单与上场分钟，minutes_played 一律为空。",
+  "suggested_source": "亚足联/赛事官方技术统计"
+ },
+ {
+  "id": "G006",
+  "player_id": "P0001",
+  "area": "birth_year",
+  "description": "出生年份2009仅来自媒体（S007），无官方出生日期。",
+  "suggested_source": "足协名单（通常不含生日）、亚足联球员页"
+ },
+ {
+  "id": "G007",
+  "player_id": "P0001",
+  "area": "appearance",
+  "description": "亚洲杯对印尼、卡塔尔、澳大利亚是否出场未知；1/4决赛、决赛是否首发未知。",
+  "suggested_source": "亚足联比赛技术统计"
+ },
+ {
+  "id": "G008",
+  "player_id": "P0001",
+  "area": "club",
+  "description": "贝尔格莱德红星U17梯队比赛数据未收录。",
+  "suggested_source": "塞尔维亚足协/俱乐部官网"
+ },
+ {
+  "id": "G009",
+  "player_id": "P0002",
+  "area": "abroad",
+  "description": "2023—2025年在西班牙所属具体俱乐部未经可靠来源核实。",
+  "suggested_source": "俱乐部官网、西班牙足协注册信息"
+ },
+ {
+  "id": "G010",
+  "player_id": "P0002",
+  "area": "appearance",
+  "description": "亚洲杯半决赛、决赛及小组赛出场情况未知；银川赛出场未知（未入第四期名单）。",
+  "suggested_source": "亚足联技术统计"
+ },
+ {
+  "id": "G011",
+  "player_id": "P0002",
+  "area": "club",
+  "description": "2026中超第1轮之后的联赛出场未收录。",
+  "suggested_source": "中超官方数据"
+ },
+ {
+  "id": "G012",
+  "player_id": "P0003",
+  "area": "birth_year",
+  "description": "出生年份未知。",
+  "suggested_source": "足协/亚足联球员资料"
+ },
+ {
+  "id": "G013",
+  "player_id": "P0003",
+  "area": "relation",
+  "description": "小将关系仅一家主流媒体（S007）具名，缺第二独立来源或小将官方说明。",
+  "suggested_source": "中国足球小将官方渠道"
+ },
+ {
+  "id": "G014",
+  "player_id": "P0003",
+  "area": "appearance",
+  "description": "S005助攻为下限值（第2球助攻者未写明）；亚洲杯决赛出场未知。",
+  "suggested_source": "亚足联技术统计"
+ },
+ {
+  "id": "G015",
+  "player_id": "P0004",
+  "area": "birth_year",
+  "description": "出生年份未知。",
+  "suggested_source": "足协/亚足联球员资料"
+ },
+ {
+  "id": "G016",
+  "player_id": "P0004",
+  "area": "appearance",
+  "description": "四期集训均入选，但已核读战报中无任何一场具名出场记录。",
+  "suggested_source": "亚足联及足协战报全文"
+ },
+ {
+  "id": "G017",
+  "player_id": "P0005",
+  "area": "birth_year",
+  "description": "出生年份未知。",
+  "suggested_source": "足协/亚足联球员资料"
+ },
+ {
+  "id": "G018",
+  "player_id": "P0005",
+  "area": "relation",
+  "description": "小将关系仅自媒体摘要（S016）；新华社“儿时队友”不构成证据。",
+  "suggested_source": "主流媒体或小将官方"
+ },
+ {
+  "id": "G019",
+  "player_id": "P0005",
+  "area": "appearance",
+  "description": "决赛替补登场分钟未知；亚洲杯小组赛出场未知。",
+  "suggested_source": "亚足联技术统计"
+ },
+ {
+  "id": "G020",
+  "player_id": "P0006",
+  "area": "birth_year",
+  "description": "可由“16岁117天”推算出生日期，但无直接来源，保持为空。",
+  "suggested_source": "官方球员资料"
+ },
+ {
+  "id": "G021",
+  "player_id": "P0006",
+  "area": "relation",
+  "description": "未找到任何具名来源支持其与中国足球小将的关系，仅参考站线索。",
+  "suggested_source": "主流媒体或小将官方"
+ },
+ {
+  "id": "G022",
+  "player_id": "P0006",
+  "area": "appearance",
+  "description": "1/4决赛是否替补登场未知；小组赛对卡塔尔进球/助攻未知。",
+  "suggested_source": "亚足联技术统计"
+ },
+ {
+  "id": "G023",
+  "player_id": "P0007",
+  "area": "position",
+  "description": "场上位置无来源。",
+  "suggested_source": "足协/亚足联名单"
+ },
+ {
+  "id": "G024",
+  "player_id": "P0007",
+  "area": "relation",
+  "description": "小将关系仅自媒体摘要（S016）。",
+  "suggested_source": "主流媒体或小将官方"
+ },
+ {
+  "id": "G025",
+  "player_id": "P0007",
+  "area": "abroad",
+  "description": "第二期名单所属“皇家卡拉万切尔足球俱乐部”所在国家来源未写明，暂不计入留洋。",
+  "suggested_source": "俱乐部官网、媒体报道"
+ },
+ {
+  "id": "G026",
+  "player_id": "P0008",
+  "area": "position",
+  "description": "场上位置无来源。",
+  "suggested_source": "足协/亚足联名单"
+ },
+ {
+  "id": "G027",
+  "player_id": "P0008",
+  "area": "relation",
+  "description": "小将关系仅自媒体摘要（S016）。",
+  "suggested_source": "主流媒体或小将官方"
+ },
+ {
+  "id": "G028",
+  "player_id": "P0008",
+  "area": "appearance",
+  "description": "无任何国字号或俱乐部具名出场记录。",
+  "suggested_source": "战报全文"
+ },
+ {
+  "id": "G029",
+  "player_id": "P0009",
+  "area": "position",
+  "description": "场上位置无来源。",
+  "suggested_source": "足协/亚足联名单"
+ },
+ {
+  "id": "G030",
+  "player_id": "P0009",
+  "area": "relation",
+  "description": "小将关系仅自媒体摘要（S016，写作李均鹏）。",
+  "suggested_source": "主流媒体或小将官方"
+ },
+ {
+  "id": "G031",
+  "player_id": "P0009",
+  "area": "appearance",
+  "description": "银川赛第3轮是否替补登场未知；亚洲杯出场未知。",
+  "suggested_source": "战报全文、技术统计"
+ },
+ {
+  "id": "G032",
+  "player_id": "P0010",
+  "area": "selection",
+  "description": "亚洲杯名单入选仅自媒体S017称，未核实。",
+  "suggested_source": "足协官方名单公布页"
+ },
+ {
+  "id": "G033",
+  "player_id": "P0010",
+  "area": "relation",
+  "description": "小将关系仅自媒体摘要（S016）。",
+  "suggested_source": "主流媒体或小将官方"
+ },
+ {
+  "id": "G034",
+  "player_id": "P0010",
+  "area": "club",
+  "description": "“达姆足球俱乐部”所在国家及注册情况未核实。",
+  "suggested_source": "俱乐部官网、媒体报道"
+ },
+ {
+  "id": "G035",
+  "player_id": "P0010",
+  "area": "position",
+  "description": "场上位置无来源。",
+  "suggested_source": "足协/亚足联名单"
+ },
+ {
+  "id": "G036",
+  "player_id": "P0005",
+  "area": "appearance",
+  "description": "S003称决赛点球为其本届第3球、S004称1/4决赛进球为其第2球，故另有1粒亚洲杯小组赛进球未定位到具体比赛（未收录）。",
+  "suggested_source": "亚洲杯小组赛战报"
+ }
+]

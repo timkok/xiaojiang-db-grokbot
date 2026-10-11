@@ -1,0 +1,262 @@
+[
+ {
+  "id": "R001",
+  "player_id": "P0001",
+  "relation_type": "youth_training_participant",
+  "status": "established",
+  "join_year": 2017,
+  "join_age": null,
+  "period": "小学阶段",
+  "source_ids": [
+   "S006",
+   "S007"
+  ],
+  "evidence": [
+   {
+    "source_id": "S006",
+    "excerpt": "在小学时参加了民间青训组织“中国足球小将”",
+    "excerpt_type": "quote",
+    "supports": [
+     "relation"
+    ]
+   },
+   {
+    "source_id": "S007",
+    "excerpt": "万项…2017年加入（2009年生于七台河）",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "relation",
+     "join_year"
+    ]
+   }
+  ],
+  "note": "新华社稿经足协官网转载，按原始媒体归类。"
+ },
+ {
+  "id": "R002",
+  "player_id": "P0002",
+  "relation_type": "youth_training_participant",
+  "status": "established",
+  "join_year": null,
+  "join_age": 9,
+  "period": null,
+  "source_ids": [
+   "S007",
+   "S013"
+  ],
+  "evidence": [
+   {
+    "source_id": "S007",
+    "excerpt": "“中国足球小将”青训项目为本届U17中国男足输送了多名球员，包括前锋邝兆镭",
+    "excerpt_type": "quote",
+    "supports": [
+     "relation",
+     "position"
+    ]
+   },
+   {
+    "source_id": "S007",
+    "excerpt": "9岁加入",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "join_age"
+    ]
+   },
+   {
+    "source_id": "S013",
+    "excerpt": "中国足球小将代表人物",
+    "excerpt_type": "quote",
+    "supports": [
+     "relation"
+    ]
+   }
+  ],
+  "note": "S013为转载摘录，仅作补充。"
+ },
+ {
+  "id": "R003",
+  "player_id": "P0003",
+  "relation_type": "youth_training_participant",
+  "status": "established",
+  "join_year": null,
+  "join_age": null,
+  "period": null,
+  "source_ids": [
+   "S007"
+  ],
+  "evidence": [
+   {
+    "source_id": "S007",
+    "excerpt": "“中国足球小将”青训项目为本届U17中国男足输送了多名球员，包括…中场周雨诺",
+    "excerpt_type": "quote",
+    "supports": [
+     "relation",
+     "position"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "R004",
+  "player_id": "P0004",
+  "relation_type": "youth_training_participant",
+  "status": "established",
+  "join_year": null,
+  "join_age": null,
+  "period": null,
+  "source_ids": [
+   "S007"
+  ],
+  "evidence": [
+   {
+    "source_id": "S007",
+    "excerpt": "“中国足球小将”青训项目为本届U17中国男足输送了多名球员，包括…后卫南子勋",
+    "excerpt_type": "quote",
+    "supports": [
+     "relation",
+     "position"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "R005",
+  "player_id": "P0005",
+  "relation_type": "youth_training_participant",
+  "status": "claimed_weak",
+  "join_year": null,
+  "join_age": null,
+  "period": null,
+  "source_ids": [
+   "S016"
+  ],
+  "evidence": [
+   {
+    "source_id": "S016",
+    "excerpt": "检索摘要称8人曾在中国足球小将踢球，名单含赵松源",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "relation_claim"
+    ]
+   }
+  ],
+  "note": "S006仅称其与万项为儿时队友，不能推出小将关系。"
+ },
+ {
+  "id": "R006",
+  "player_id": "P0006",
+  "relation_type": "youth_training_participant",
+  "status": "lead_only",
+  "join_year": null,
+  "join_age": null,
+  "period": null,
+  "source_ids": [
+   "S019"
+  ],
+  "evidence": [
+   {
+    "source_id": "S019",
+    "excerpt": "参考站列为相关球员（仅线索，非证据）",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "lead"
+    ]
+   }
+  ],
+  "note": "已核读来源均未提及其与中国足球小将的关系；S006称其出身成都足协德瑞青训中心。"
+ },
+ {
+  "id": "R007",
+  "player_id": "P0007",
+  "relation_type": "youth_training_participant",
+  "status": "claimed_weak",
+  "join_year": null,
+  "join_age": null,
+  "period": null,
+  "source_ids": [
+   "S016"
+  ],
+  "evidence": [
+   {
+    "source_id": "S016",
+    "excerpt": "检索摘要所列8人含谢晋",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "relation_claim"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "R008",
+  "player_id": "P0008",
+  "relation_type": "youth_training_participant",
+  "status": "claimed_weak",
+  "join_year": null,
+  "join_age": null,
+  "period": null,
+  "source_ids": [
+   "S016"
+  ],
+  "evidence": [
+   {
+    "source_id": "S016",
+    "excerpt": "检索摘要所列8人含张伯霖",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "relation_claim"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "R009",
+  "player_id": "P0009",
+  "relation_type": "youth_training_participant",
+  "status": "claimed_weak",
+  "join_year": null,
+  "join_age": null,
+  "period": null,
+  "source_ids": [
+   "S016"
+  ],
+  "evidence": [
+   {
+    "source_id": "S016",
+    "excerpt": "检索摘要所列8人含“李均鹏”（疑为李钧鹏）",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "relation_claim"
+    ]
+   }
+  ],
+  "note": "姓名写法差异见冲突C003。"
+ },
+ {
+  "id": "R010",
+  "player_id": "P0010",
+  "relation_type": "youth_training_participant",
+  "status": "claimed_weak",
+  "join_year": null,
+  "join_age": null,
+  "period": null,
+  "source_ids": [
+   "S016"
+  ],
+  "evidence": [
+   {
+    "source_id": "S016",
+    "excerpt": "检索摘要所列8人含汪修昊",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "relation_claim"
+    ]
+   }
+  ],
+  "note": null
+ }
+]

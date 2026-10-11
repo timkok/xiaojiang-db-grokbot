@@ -1,0 +1,737 @@
+[
+ {
+  "id": "M001",
+  "competition": "2026亚足联U17亚洲杯",
+  "stage": "小组赛B组第1轮",
+  "date_local": "2026-05-05",
+  "time_local": "19:30",
+  "timezone_local": "UTC+03:00",
+  "date_beijing": "2026-05-06",
+  "time_beijing": "00:30",
+  "date_basis": "S017（自媒体）给出北京时间开球；当地时间按UTC+3推算",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "low",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "印度尼西亚U17",
+  "team_score": 0,
+  "opponent_score": 1,
+  "penalty_shootout": null,
+  "home_away": "neutral",
+  "venue": null,
+  "venue_city": null,
+  "venue_country": "沙特阿拉伯",
+  "location_basis": "赛事在沙特举办（S003/S004淘汰赛场地位于吉达）；本场场馆未核读",
+  "location_scope": "overseas",
+  "competition_nature": "official_competition",
+  "source_ids": [
+   "S008",
+   "S003",
+   "S017"
+  ],
+  "evidence": [
+   {
+    "source_id": "S008",
+    "excerpt": "印尼队1-0中国队",
+    "excerpt_type": "quote",
+    "supports": [
+     "score"
+    ]
+   },
+   {
+    "source_id": "S003",
+    "excerpt": "小组赛0比1负印尼",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "score",
+     "stage"
+    ]
+   },
+   {
+    "source_id": "S017",
+    "excerpt": "北京时间5月6日00:30 印尼vs中国",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "date_beijing"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M002",
+  "competition": "2026亚足联U17亚洲杯",
+  "stage": "小组赛B组第2轮",
+  "date_local": "2026-05-09",
+  "time_local": "19:00",
+  "timezone_local": "UTC+03:00",
+  "date_beijing": "2026-05-10",
+  "time_beijing": "00:00",
+  "date_basis": "S006图片说明“5月9日”（当地日期）；北京时间来自S017",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "medium",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "日本U17",
+  "team_score": 1,
+  "opponent_score": 2,
+  "penalty_shootout": null,
+  "home_away": "neutral",
+  "venue": null,
+  "venue_city": null,
+  "venue_country": "沙特阿拉伯",
+  "location_basis": "同M001",
+  "location_scope": "overseas",
+  "competition_nature": "official_competition",
+  "source_ids": [
+   "S009",
+   "S003",
+   "S006",
+   "S017"
+  ],
+  "evidence": [
+   {
+    "source_id": "S009",
+    "excerpt": "中国队1-2日本队",
+    "excerpt_type": "quote",
+    "supports": [
+     "score"
+    ]
+   },
+   {
+    "source_id": "S006",
+    "excerpt": "5月9日，中国队球员万项在比赛中带球突破",
+    "excerpt_type": "quote",
+    "supports": [
+     "date_local"
+    ]
+   },
+   {
+    "source_id": "S017",
+    "excerpt": "北京时间5月10日00:00 中国vs日本",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "date_beijing"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M003",
+  "competition": "2026亚足联U17亚洲杯",
+  "stage": "小组赛B组第3轮",
+  "date_local": "2026-05-12",
+  "time_local": "19:00",
+  "timezone_local": "UTC+03:00",
+  "date_beijing": "2026-05-13",
+  "time_beijing": "00:00",
+  "date_basis": "仅S017（自媒体）给出北京时间；当地时间按UTC+3推算",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "low",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "卡塔尔U17",
+  "team_score": 2,
+  "opponent_score": 0,
+  "penalty_shootout": null,
+  "home_away": "neutral",
+  "venue": null,
+  "venue_city": null,
+  "venue_country": "沙特阿拉伯",
+  "location_basis": "同M001",
+  "location_scope": "overseas",
+  "competition_nature": "official_competition",
+  "source_ids": [
+   "S003",
+   "S017"
+  ],
+  "evidence": [
+   {
+    "source_id": "S003",
+    "excerpt": "小组赛2比0胜卡塔尔，以B组第二出线",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "score",
+     "stage"
+    ]
+   },
+   {
+    "source_id": "S017",
+    "excerpt": "北京时间5月13日00:00 中国vs卡塔尔",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "date_beijing"
+    ]
+   }
+  ],
+  "note": "进球者未在已核读来源中出现。"
+ },
+ {
+  "id": "M004",
+  "competition": "2026亚足联U17亚洲杯",
+  "stage": "1/4决赛",
+  "date_local": "2026-05-15",
+  "time_local": "20:00",
+  "timezone_local": "UTC+03:00",
+  "date_beijing": "2026-05-16",
+  "time_beijing": "01:00",
+  "date_basis": "S004写明北京时间；当地时间按UTC+3推算",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "沙特阿拉伯U17",
+  "team_score": 3,
+  "opponent_score": 1,
+  "penalty_shootout": null,
+  "home_away": "away",
+  "venue": "吉达·阿卜杜拉国王体育城A场地",
+  "venue_city": "吉达",
+  "venue_country": "沙特阿拉伯",
+  "location_basis": "S004",
+  "location_scope": "overseas",
+  "competition_nature": "official_competition",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "北京时间5月16日01:00，沙特阿拉伯U-17 1-3 中国U-17",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "date_beijing",
+     "score"
+    ]
+   },
+   {
+    "source_id": "S004",
+    "excerpt": "吉达·阿卜杜拉国王体育城A场地",
+    "excerpt_type": "quote",
+    "supports": [
+     "venue"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M005",
+  "competition": "2026亚足联U17亚洲杯",
+  "stage": "半决赛",
+  "date_local": "2026-05-19",
+  "time_local": "21:30",
+  "timezone_local": "UTC+03:00",
+  "date_beijing": "2026-05-20",
+  "time_beijing": "02:30",
+  "date_basis": "S005写明北京时间；当地时间按UTC+3推算",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "澳大利亚U17",
+  "team_score": 2,
+  "opponent_score": 0,
+  "penalty_shootout": null,
+  "home_away": "neutral",
+  "venue": "吉达·阿卜杜拉国王体育城体育场副场",
+  "venue_city": "吉达",
+  "venue_country": "沙特阿拉伯",
+  "location_basis": "S005（与决赛同场地，见S003）",
+  "location_scope": "overseas",
+  "competition_nature": "official_competition",
+  "source_ids": [
+   "S005",
+   "S003"
+  ],
+  "evidence": [
+   {
+    "source_id": "S005",
+    "excerpt": "中国队2比0战胜澳大利亚队",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "score"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M006",
+  "competition": "2026亚足联U17亚洲杯",
+  "stage": "决赛",
+  "date_local": "2026-05-22",
+  "time_local": "20:00",
+  "timezone_local": "UTC+03:00",
+  "date_beijing": "2026-05-23",
+  "time_beijing": "01:00",
+  "date_basis": "S003写明北京时间；当地时间按UTC+3推算",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "日本U17",
+  "team_score": 2,
+  "opponent_score": 3,
+  "penalty_shootout": null,
+  "home_away": "neutral",
+  "venue": "吉达·阿卜杜拉国王体育城体育场副场",
+  "venue_city": "吉达",
+  "venue_country": "沙特阿拉伯",
+  "location_basis": "S003",
+  "location_scope": "overseas",
+  "competition_nature": "official_competition",
+  "source_ids": [
+   "S003"
+  ],
+  "evidence": [
+   {
+    "source_id": "S003",
+    "excerpt": "2比3惜败屈居亚军",
+    "excerpt_type": "quote",
+    "supports": [
+     "score"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M007",
+  "competition": "2026CFA中国之队·银川国际青年足球锦标赛",
+  "stage": "第1轮",
+  "date_local": "2026-07-05",
+  "time_local": "19:35",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2026-07-05",
+  "time_beijing": "19:35",
+  "date_basis": "S023写明（国内比赛，当地=北京时间）",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "澳大利亚U17",
+  "team_score": 3,
+  "opponent_score": 0,
+  "penalty_shootout": null,
+  "home_away": "home",
+  "venue": "银川市体育中心贺兰山体育场",
+  "venue_city": "银川",
+  "venue_country": "中国",
+  "location_basis": "S023",
+  "location_scope": "domestic",
+  "competition_nature": "invitational",
+  "source_ids": [
+   "S023",
+   "S010"
+  ],
+  "evidence": [
+   {
+    "source_id": "S023",
+    "excerpt": "7月5日19:35…中国U-17男足迎战首个对手澳大利亚U-17男足…以3比0获胜",
+    "excerpt_type": "quote",
+    "supports": [
+     "date",
+     "score",
+     "venue"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M008",
+  "competition": "2026CFA中国之队·银川国际青年足球锦标赛",
+  "stage": "第2轮",
+  "date_local": "2026-07-08",
+  "time_local": "19:35",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2026-07-08",
+  "time_beijing": "19:35",
+  "date_basis": "S024写明",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "坦桑尼亚U17",
+  "team_score": 0,
+  "opponent_score": 2,
+  "penalty_shootout": null,
+  "home_away": "home",
+  "venue": "银川市体育中心贺兰山体育场",
+  "venue_city": "银川",
+  "venue_country": "中国",
+  "location_basis": "S024",
+  "location_scope": "domestic",
+  "competition_nature": "invitational",
+  "source_ids": [
+   "S024",
+   "S010"
+  ],
+  "evidence": [
+   {
+    "source_id": "S024",
+    "excerpt": "7月8日19:35…最终以0比2失利",
+    "excerpt_type": "quote",
+    "supports": [
+     "date",
+     "score"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M009",
+  "competition": "2026CFA中国之队·银川国际青年足球锦标赛",
+  "stage": "第3轮",
+  "date_local": "2026-07-11",
+  "time_local": "19:35",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2026-07-11",
+  "time_beijing": "19:35",
+  "date_basis": "S010写明",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "尼日利亚U17",
+  "team_score": 1,
+  "opponent_score": 1,
+  "penalty_shootout": null,
+  "home_away": "home",
+  "venue": "银川市体育中心贺兰山体育场",
+  "venue_city": "银川",
+  "venue_country": "中国",
+  "location_basis": "S010",
+  "location_scope": "domestic",
+  "competition_nature": "invitational",
+  "source_ids": [
+   "S010"
+  ],
+  "evidence": [
+   {
+    "source_id": "S010",
+    "excerpt": "7月11日19:35…双方以1比1战平，张君豪为中国U-17男足扳平比分",
+    "excerpt_type": "quote",
+    "supports": [
+     "date",
+     "score"
+    ]
+   }
+  ],
+  "note": "中国U17获赛事亚军（1胜1平1负）。"
+ },
+ {
+  "id": "M010",
+  "competition": "2026上海明日之星冠军杯（男子组）",
+  "stage": "小组赛A组第1轮",
+  "date_local": "2026-08-03",
+  "time_local": "19:35",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2026-08-03",
+  "time_beijing": "19:35",
+  "date_basis": "S025写明",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "阿森纳U17",
+  "team_score": 3,
+  "opponent_score": 2,
+  "penalty_shootout": null,
+  "home_away": "home",
+  "venue": null,
+  "venue_city": "上海",
+  "venue_country": "中国",
+  "location_basis": "S025仅说明赛事在上海，未写场地",
+  "location_scope": "domestic",
+  "competition_nature": "invitational",
+  "source_ids": [
+   "S025"
+  ],
+  "evidence": [
+   {
+    "source_id": "S025",
+    "excerpt": "8月3日19:35，中国U-17男足在小组赛第一轮对阵阿森纳U-17男足",
+    "excerpt_type": "quote",
+    "supports": [
+     "date"
+    ]
+   },
+   {
+    "source_id": "S025",
+    "excerpt": "以3比2绝杀阿森纳U-17男足",
+    "excerpt_type": "quote",
+    "supports": [
+     "score"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M011",
+  "competition": "2026上海明日之星冠军杯（男子组）",
+  "stage": "小组赛A组第2轮",
+  "date_local": "2026-08-04",
+  "time_local": "16:00",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2026-08-04",
+  "time_beijing": "16:00",
+  "date_basis": "S025写明",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "毕尔巴鄂竞技U17",
+  "team_score": 1,
+  "opponent_score": 0,
+  "penalty_shootout": null,
+  "home_away": "home",
+  "venue": null,
+  "venue_city": "上海",
+  "venue_country": "中国",
+  "location_basis": "同M010",
+  "location_scope": "domestic",
+  "competition_nature": "invitational",
+  "source_ids": [
+   "S025"
+  ],
+  "evidence": [
+   {
+    "source_id": "S025",
+    "excerpt": "8月4日16:00…对阵毕尔巴鄂竞技U-17男足",
+    "excerpt_type": "quote",
+    "supports": [
+     "date"
+    ]
+   },
+   {
+    "source_id": "S025",
+    "excerpt": "1比0力克毕尔巴鄂竞技U-17男足",
+    "excerpt_type": "quote",
+    "supports": [
+     "score"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M012",
+  "competition": "2026上海明日之星冠军杯（男子组）",
+  "stage": "小组赛A组第3轮",
+  "date_local": "2026-08-06",
+  "time_local": "19:45",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2026-08-06",
+  "time_beijing": "19:45",
+  "date_basis": "S025写明",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "勒沃库森U17",
+  "team_score": 2,
+  "opponent_score": 1,
+  "penalty_shootout": null,
+  "home_away": "home",
+  "venue": null,
+  "venue_city": "上海",
+  "venue_country": "中国",
+  "location_basis": "同M010",
+  "location_scope": "domestic",
+  "competition_nature": "invitational",
+  "source_ids": [
+   "S025"
+  ],
+  "evidence": [
+   {
+    "source_id": "S025",
+    "excerpt": "8月6日19:45…对阵勒沃库森U-17男足",
+    "excerpt_type": "quote",
+    "supports": [
+     "date"
+    ]
+   },
+   {
+    "source_id": "S025",
+    "excerpt": "2比1逆转勒沃库森U-17男足",
+    "excerpt_type": "quote",
+    "supports": [
+     "score"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "M013",
+  "competition": "2026上海明日之星冠军杯（男子组）",
+  "stage": "半决赛（1-4名排位赛）",
+  "date_local": "2026-08-07",
+  "time_local": "19:35",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2026-08-07",
+  "time_beijing": "19:35",
+  "date_basis": "S026写明",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "中国U17",
+  "team_kind": "national",
+  "national_level": "U17",
+  "opponent": "河床U17",
+  "team_score": 0,
+  "opponent_score": 0,
+  "penalty_shootout": {
+   "team": 3,
+   "opponent": 1
+  },
+  "home_away": "home",
+  "venue": "上海浦东足球场训练场",
+  "venue_city": "上海",
+  "venue_country": "中国",
+  "location_basis": "S026",
+  "location_scope": "domestic",
+  "competition_nature": "invitational",
+  "source_ids": [
+   "S026"
+  ],
+  "evidence": [
+   {
+    "source_id": "S026",
+    "excerpt": "8月7日19:35…在上海浦东足球场训练场进行。90分钟常规时间双方0比0战平…点球决胜以3比1战胜对手",
+    "excerpt_type": "quote",
+    "supports": [
+     "date",
+     "venue",
+     "score",
+     "penalty_shootout"
+    ]
+   }
+  ],
+  "note": "8月9日14:30决赛（对阿森纳U17）战报未核读，未收录。"
+ },
+ {
+  "id": "M101",
+  "competition": "2026中国足球协会超级联赛",
+  "stage": "第1轮",
+  "date_local": "2026-03-07",
+  "time_local": "19:35",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2026-03-07",
+  "time_beijing": "19:35",
+  "date_basis": "S011写明",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "青岛海牛",
+  "team_kind": "club",
+  "national_level": null,
+  "opponent": "云南玉昆",
+  "team_score": 1,
+  "opponent_score": 3,
+  "penalty_shootout": null,
+  "home_away": "away",
+  "venue": "玉溪高原体育中心",
+  "venue_city": "玉溪",
+  "venue_country": "中国",
+  "location_basis": "S011/S012",
+  "location_scope": "domestic",
+  "competition_nature": "league",
+  "source_ids": [
+   "S011",
+   "S012"
+  ],
+  "evidence": [
+   {
+    "source_id": "S011",
+    "excerpt": "玉昆3-1海牛开门红",
+    "excerpt_type": "quote",
+    "supports": [
+     "score"
+    ]
+   },
+   {
+    "source_id": "S012",
+    "excerpt": "中超：云南玉昆胜青岛海牛",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "score",
+     "home_away"
+    ]
+   }
+  ],
+  "note": "S014（自媒体）称0-0，与本记录冲突，见C001。"
+ },
+ {
+  "id": "M102",
+  "competition": "2025中国足球协会乙级联赛",
+  "stage": "预赛阶段第7轮",
+  "date_local": "2025-05-02",
+  "time_local": "16:30",
+  "timezone_local": "UTC+08:00",
+  "date_beijing": "2025-05-02",
+  "time_beijing": "16:30",
+  "date_basis": "S015写明",
+  "date_precision": "exact_time",
+  "date_range": null,
+  "date_confidence": "high",
+  "team": "成都蓉城B队",
+  "team_kind": "club",
+  "national_level": null,
+  "opponent": "泉州亚新",
+  "team_score": 4,
+  "opponent_score": 1,
+  "penalty_shootout": null,
+  "home_away": "away",
+  "venue": null,
+  "venue_city": null,
+  "venue_country": "中国",
+  "location_basis": "S015未写场地",
+  "location_scope": "domestic",
+  "competition_nature": "league",
+  "source_ids": [
+   "S015"
+  ],
+  "evidence": [
+   {
+    "source_id": "S015",
+    "excerpt": "泉州亚新1-4成都蓉城B队",
+    "excerpt_type": "quote",
+    "supports": [
+     "score",
+     "home_away"
+    ]
+   }
+  ],
+  "note": null
+ }
+]

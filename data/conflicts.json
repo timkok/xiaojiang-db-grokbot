@@ -1,0 +1,152 @@
+[
+ {
+  "id": "C001",
+  "player_id": null,
+  "entity": "match:M101",
+  "field": "score",
+  "chain": null,
+  "status": "resolved",
+  "claims": [
+   {
+    "source_id": "S011",
+    "value": "云南玉昆 3-1 青岛海牛"
+   },
+   {
+    "source_id": "S012",
+    "value": "云南玉昆胜青岛海牛"
+   },
+   {
+    "source_id": "S014",
+    "value": "青岛海牛 0-0 云南玉昆"
+   }
+  ],
+  "adopted_value": "云南玉昆 3-1 青岛海牛",
+  "resolution": "直播吧全文与新华社一致；S014为自媒体且与两者矛盾，仅登记、不采用。",
+  "noted_date": "2026-10-11"
+ },
+ {
+  "id": "C002",
+  "player_id": null,
+  "entity": "aggregate:U17亚洲杯名单中的小将人数",
+  "field": "xiaojiang_count_in_squad",
+  "chain": null,
+  "status": "open",
+  "claims": [
+   {
+    "source_id": "S016",
+    "value": "8人（具名）"
+   },
+   {
+    "source_id": "S018",
+    "value": "9人（未具名）"
+   },
+   {
+    "source_id": "S007",
+    "value": "“多名”，具名4人"
+   }
+  ],
+  "adopted_value": null,
+  "resolution": "均非官方、未核读原文；本库不采用任何总人数，仅按逐人证据统计。",
+  "noted_date": "2026-10-11"
+ },
+ {
+  "id": "C003",
+  "player_id": "P0009",
+  "entity": "player:P0009",
+  "field": "name",
+  "chain": null,
+  "status": "resolved",
+  "claims": [
+   {
+    "source_id": "S001",
+    "value": "李钧鹏"
+   },
+   {
+    "source_id": "S020",
+    "value": "李钧鹏"
+   },
+   {
+    "source_id": "S016",
+    "value": "李均鹏"
+   }
+  ],
+  "adopted_value": "李钧鹏",
+  "resolution": "以足协名单写法为准，“李均鹏”作为别名。",
+  "noted_date": "2026-10-11"
+ },
+ {
+  "id": "C004",
+  "player_id": "P0007",
+  "entity": "player:P0007",
+  "field": "name",
+  "chain": null,
+  "status": "resolved",
+  "claims": [
+   {
+    "source_id": "S001",
+    "value": "谢 晋"
+   },
+   {
+    "source_id": "S021",
+    "value": "谢晋"
+   },
+   {
+    "source_id": "S005",
+    "value": "谢晋"
+   }
+  ],
+  "adopted_value": "谢晋",
+  "resolution": "第四期名单中的空格为排版对齐，归并为同一人并保留别名。",
+  "noted_date": "2026-10-11"
+ },
+ {
+  "id": "C005",
+  "player_id": null,
+  "entity": "source:S020",
+  "field": "published_date",
+  "chain": null,
+  "status": "resolved",
+  "claims": [
+   {
+    "source_id": "S020",
+    "value": "页面署名 2026-01-18"
+   },
+   {
+    "source_id": "S020",
+    "value": "URL路径 20260415"
+   }
+  ],
+  "adopted_value": "2026-01-18",
+  "resolution": "正文与落款均为2026年1月18日，集训期1月21日至2月12日，以正文为准。",
+  "noted_date": "2026-10-11"
+ },
+ {
+  "id": "C006",
+  "player_id": "P0006",
+  "entity": "player:P0006",
+  "field": "unit_as_listed",
+  "chain": null,
+  "status": "open",
+  "claims": [
+   {
+    "source_id": "S020",
+    "value": "成都蓉城足球俱乐部（2026-01-18）"
+   },
+   {
+    "source_id": "S021",
+    "value": "其他（2026-03-11）"
+   },
+   {
+    "source_id": "S001",
+    "value": "成都蓉城足球俱乐部（2026-06-27）"
+   },
+   {
+    "source_id": "S022",
+    "value": "成都蓉城足球俱乐部（2026-08-03）"
+   }
+  ],
+  "adopted_value": null,
+  "resolution": "各期名单原文如实记录；第二期写作“其他”的原因未知（可能与注册状态有关，未核实）。不影响入选事实。",
+  "noted_date": "2026-10-11"
+ }
+]

@@ -1,0 +1,1001 @@
+[
+ {
+  "id": "A001",
+  "player_id": "P0001",
+  "match_id": "M002",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": null,
+  "assists": null,
+  "assists_lower_bound": false,
+  "stats_completeness": "appearance_only",
+  "confidence": "medium",
+  "source_ids": [
+   "S006"
+  ],
+  "evidence": [
+   {
+    "source_id": "S006",
+    "excerpt": "5月9日，中国队球员万项在比赛中带球突破",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance"
+    ]
+   }
+  ],
+  "note": "图片说明日期与对日本比赛当地日期一致；进球/助攻未知。"
+ },
+ {
+  "id": "A002",
+  "player_id": "P0006",
+  "match_id": "M003",
+  "status": "started",
+  "started": true,
+  "start_basis": "derived_from_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": null,
+  "assists": null,
+  "assists_lower_bound": false,
+  "stats_completeness": "appearance_only",
+  "confidence": "medium",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "首发相较小组赛末轮：邝兆镭替换帅惟浩",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "started"
+    ]
+   }
+  ],
+  "note": "由1/4决赛首发调整反推其首发了小组赛末轮；本场进球者未知。"
+ },
+ {
+  "id": "A003",
+  "player_id": "P0002",
+  "match_id": "M004",
+  "status": "started",
+  "started": true,
+  "start_basis": "explicit_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 1,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "邝兆镭替换帅惟浩进入首发",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "started"
+    ]
+   },
+   {
+    "source_id": "S004",
+    "excerpt": "第27分钟邝兆镭传中，万项破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "assists"
+    ]
+   }
+  ],
+  "note": "本场中国队3球进球者及助攻者全部写明。"
+ },
+ {
+  "id": "A004",
+  "player_id": "P0001",
+  "match_id": "M004",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "第27分钟邝兆镭传中，万项破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "appearance",
+     "goals"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A005",
+  "player_id": "P0005",
+  "match_id": "M004",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "第59分钟何思凡头球摆渡，赵松源破门（个人第2球）",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "appearance",
+     "goals"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A006",
+  "player_id": "P0006",
+  "match_id": "M004",
+  "status": "not_started_unknown",
+  "started": false,
+  "start_basis": "explicit_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": null,
+  "assists": null,
+  "assists_lower_bound": false,
+  "stats_completeness": "unknown",
+  "confidence": "high",
+  "source_ids": [
+   "S004"
+  ],
+  "evidence": [
+   {
+    "source_id": "S004",
+    "excerpt": "邝兆镭替换帅惟浩进入首发",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "started"
+    ]
+   }
+  ],
+  "note": "未首发；是否替补登场未知。"
+ },
+ {
+  "id": "A007",
+  "player_id": "P0006",
+  "match_id": "M005",
+  "status": "started",
+  "started": true,
+  "start_basis": "explicit_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": null,
+  "assists_lower_bound": false,
+  "stats_completeness": "partial",
+  "confidence": "high",
+  "source_ids": [
+   "S005"
+  ],
+  "evidence": [
+   {
+    "source_id": "S005",
+    "excerpt": "帅惟浩替换停赛的潘朝伟进入首发",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "started"
+    ]
+   },
+   {
+    "source_id": "S005",
+    "excerpt": "第49分钟周雨诺抢断后助攻帅惟浩破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "goals"
+    ]
+   }
+  ],
+  "note": "第2球助攻者未写明，助攻记为未知。"
+ },
+ {
+  "id": "A008",
+  "player_id": "P0003",
+  "match_id": "M005",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 1,
+  "assists_lower_bound": true,
+  "stats_completeness": "partial",
+  "confidence": "high",
+  "source_ids": [
+   "S005"
+  ],
+  "evidence": [
+   {
+    "source_id": "S005",
+    "excerpt": "第49分钟周雨诺抢断后助攻帅惟浩破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "appearance",
+     "assists"
+    ]
+   }
+  ],
+  "note": "第2球助攻者未写明，助攻为下限值。"
+ },
+ {
+  "id": "A009",
+  "player_id": "P0007",
+  "match_id": "M005",
+  "status": "sub_appeared",
+  "started": false,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": null,
+  "assists_lower_bound": false,
+  "stats_completeness": "partial",
+  "confidence": "high",
+  "source_ids": [
+   "S005"
+  ],
+  "evidence": [
+   {
+    "source_id": "S005",
+    "excerpt": "第90+1分钟替补出场的谢晋破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "sub_appeared",
+     "goals"
+    ]
+   }
+  ],
+  "note": "替补登场分钟未写明。"
+ },
+ {
+  "id": "A010",
+  "player_id": "P0005",
+  "match_id": "M005",
+  "status": "started",
+  "started": true,
+  "start_basis": "derived_from_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": null,
+  "assists_lower_bound": false,
+  "stats_completeness": "partial",
+  "confidence": "high",
+  "source_ids": [
+   "S003"
+  ],
+  "evidence": [
+   {
+    "source_id": "S003",
+    "excerpt": "决赛首发相较半决赛仅1处调整：潘朝伟替换赵松源",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "started"
+    ]
+   }
+  ],
+  "note": "由决赛首发调整反推。"
+ },
+ {
+  "id": "A011",
+  "player_id": "P0006",
+  "match_id": "M006",
+  "status": "started",
+  "started": true,
+  "start_basis": "derived_from_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 1,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "medium",
+  "source_ids": [
+   "S003"
+  ],
+  "evidence": [
+   {
+    "source_id": "S003",
+    "excerpt": "决赛首发相较半决赛仅1处调整：潘朝伟替换赵松源",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "started"
+    ]
+   },
+   {
+    "source_id": "S003",
+    "excerpt": "第48分钟帅惟浩助攻万项破门",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "assists"
+    ]
+   }
+  ],
+  "note": "半决赛首发且不在调整名单中，推定决赛首发（中置信度）。"
+ },
+ {
+  "id": "A012",
+  "player_id": "P0001",
+  "match_id": "M006",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S003"
+  ],
+  "evidence": [
+   {
+    "source_id": "S003",
+    "excerpt": "第48分钟帅惟浩助攻万项破门（万项本届第2球）",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "appearance",
+     "goals"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A013",
+  "player_id": "P0005",
+  "match_id": "M006",
+  "status": "sub_appeared",
+  "started": false,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S003"
+  ],
+  "evidence": [
+   {
+    "source_id": "S003",
+    "excerpt": "潘朝伟替换赵松源进入首发",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "started"
+    ]
+   },
+   {
+    "source_id": "S003",
+    "excerpt": "第77分钟赵松源造点，第79分钟主罚命中（本届第3球）",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "goals"
+    ]
+   }
+  ],
+  "note": "半场换人3人未具名，替补登场分钟未知。"
+ },
+ {
+  "id": "A014",
+  "player_id": "P0006",
+  "match_id": "M007",
+  "status": "started",
+  "started": true,
+  "start_basis": "derived_from_early_event",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "medium",
+  "source_ids": [
+   "S023"
+  ],
+  "evidence": [
+   {
+    "source_id": "S023",
+    "excerpt": "开场6分钟，徐正鹏中场摆脱后送出过顶球，帅惟浩…将球送入空门",
+    "excerpt_type": "quote",
+    "supports": [
+     "goals",
+     "started"
+    ]
+   }
+  ],
+  "note": "第6分钟进球，推定首发；第78分钟罚失点球。"
+ },
+ {
+  "id": "A015",
+  "player_id": "P0005",
+  "match_id": "M007",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S023"
+  ],
+  "evidence": [
+   {
+    "source_id": "S023",
+    "excerpt": "第54分钟，徐正鹏左路传中，赵松源罚球点右侧头球将球顶入球门右下角",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance",
+     "goals"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A016",
+  "player_id": "P0006",
+  "match_id": "M008",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S024"
+  ],
+  "evidence": [
+   {
+    "source_id": "S024",
+    "excerpt": "第31分钟…帅惟浩小禁区前近距离凌空射门高出横梁",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance"
+    ]
+   }
+  ],
+  "note": "中国队本场未进球，故进球/助攻为0。"
+ },
+ {
+  "id": "A017",
+  "player_id": "P0003",
+  "match_id": "M008",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S024"
+  ],
+  "evidence": [
+   {
+    "source_id": "S024",
+    "excerpt": "第39分钟，周雨诺本方禁区内犯规",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance"
+    ]
+   }
+  ],
+  "note": "中国队本场未进球。"
+ },
+ {
+  "id": "A018",
+  "player_id": "P0009",
+  "match_id": "M008",
+  "status": "started",
+  "started": true,
+  "start_basis": "derived_from_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S010"
+  ],
+  "evidence": [
+   {
+    "source_id": "S010",
+    "excerpt": "首发名单中进行了4处调整，江承恩、刘致成、张君豪、孙臣曦轮换秦子牛、李钧鹏、金昱成、袁博涵",
+    "excerpt_type": "quote",
+    "supports": [
+     "started"
+    ]
+   }
+  ],
+  "note": "第3轮被轮换出首发，反推第2轮首发；中国队本场未进球。"
+ },
+ {
+  "id": "A019",
+  "player_id": "P0009",
+  "match_id": "M009",
+  "status": "not_started_unknown",
+  "started": false,
+  "start_basis": "explicit_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": null,
+  "assists": null,
+  "assists_lower_bound": false,
+  "stats_completeness": "unknown",
+  "confidence": "high",
+  "source_ids": [
+   "S010"
+  ],
+  "evidence": [
+   {
+    "source_id": "S010",
+    "excerpt": "…轮换秦子牛、李钧鹏、金昱成、袁博涵",
+    "excerpt_type": "quote",
+    "supports": [
+     "started"
+    ]
+   }
+  ],
+  "note": "未首发；是否替补登场未知。"
+ },
+ {
+  "id": "A020",
+  "player_id": "P0005",
+  "match_id": "M009",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 1,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S010"
+  ],
+  "evidence": [
+   {
+    "source_id": "S010",
+    "excerpt": "第27分钟，赵松源弧顶前妙传，张君豪禁区右侧爆射上角破门",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance",
+     "assists"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A021",
+  "player_id": "P0005",
+  "match_id": "M010",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "medium",
+  "source_ids": [
+   "S025"
+  ],
+  "evidence": [
+   {
+    "source_id": "S025",
+    "excerpt": "第23分钟，赵松源连过三名防守队员在小禁区右侧挑射打入精彩进球",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance",
+     "goals"
+    ]
+   },
+   {
+    "source_id": "S025",
+    "excerpt": "赵松源单刀赴会迫使丹尼尔·麦卡伦自摆乌龙",
+    "excerpt_type": "quote",
+    "supports": [
+     "note"
+    ]
+   }
+  ],
+  "note": "迫使对手乌龙不计入其进球；第3球为程晟涵补射，未写助攻者，助攻按0计（中置信度）。"
+ },
+ {
+  "id": "A022",
+  "player_id": "P0003",
+  "match_id": "M010",
+  "status": "started",
+  "started": true,
+  "start_basis": "derived_from_lineup_change",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "medium",
+  "source_ids": [
+   "S025"
+  ],
+  "evidence": [
+   {
+    "source_id": "S025",
+    "excerpt": "首发阵容上更换了10人，只保留队长周雨诺",
+    "excerpt_type": "quote",
+    "supports": [
+     "started"
+    ]
+   }
+  ],
+  "note": "由第2轮“只保留周雨诺”反推第1轮首发；本场3球（赵松源、乌龙、程晟涵）均无其参与描述。"
+ },
+ {
+  "id": "A023",
+  "player_id": "P0003",
+  "match_id": "M011",
+  "status": "started",
+  "started": true,
+  "start_basis": "explicit_lineup_note",
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S025"
+  ],
+  "evidence": [
+   {
+    "source_id": "S025",
+    "excerpt": "首发阵容上更换了10人，只保留队长周雨诺",
+    "excerpt_type": "quote",
+    "supports": [
+     "started"
+    ]
+   },
+   {
+    "source_id": "S025",
+    "excerpt": "第14分钟，徐正鹏左路角球传中，程晟涵连场头球破门",
+    "excerpt_type": "quote",
+    "supports": [
+     "goals",
+     "assists"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A024",
+  "player_id": "P0005",
+  "match_id": "M011",
+  "status": "sub_appeared",
+  "started": false,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S025"
+  ],
+  "evidence": [
+   {
+    "source_id": "S025",
+    "excerpt": "替补出场的赵松源头球击中横梁",
+    "excerpt_type": "quote",
+    "supports": [
+     "sub_appeared"
+    ]
+   }
+  ],
+  "note": "替补登场分钟未写明。"
+ },
+ {
+  "id": "A025",
+  "player_id": "P0005",
+  "match_id": "M012",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 1,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S025"
+  ],
+  "evidence": [
+   {
+    "source_id": "S025",
+    "excerpt": "第61分钟，赵松源小禁区左侧头球摆渡，孔玺诺小禁区内抢射得分",
+    "excerpt_type": "quote",
+    "supports": [
+     "assists"
+    ]
+   },
+   {
+    "source_id": "S025",
+    "excerpt": "金冠成前场抢断，赵松源罚球弧突施冷箭轰入世界波",
+    "excerpt_type": "quote",
+    "supports": [
+     "goals"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A026",
+  "player_id": "P0005",
+  "match_id": "M013",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S026"
+  ],
+  "evidence": [
+   {
+    "source_id": "S026",
+    "excerpt": "1分钟后，赵松源主罚点球被恩佐·佩雷拉扑出",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance"
+    ]
+   }
+  ],
+  "note": "常规时间0-0；点球大战第1轮罚进（不计入进球）。"
+ },
+ {
+  "id": "A027",
+  "player_id": "P0003",
+  "match_id": "M013",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S026"
+  ],
+  "evidence": [
+   {
+    "source_id": "S026",
+    "excerpt": "第33分钟，周雨诺远射被米尔科·费尔南德斯封堵",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A028",
+  "player_id": "P0002",
+  "match_id": "M013",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S026"
+  ],
+  "evidence": [
+   {
+    "source_id": "S026",
+    "excerpt": "第67分钟，邝兆镭左路小角度任意球偷袭近角",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A029",
+  "player_id": "P0006",
+  "match_id": "M013",
+  "status": "appeared_start_unknown",
+  "started": null,
+  "start_basis": null,
+  "sub_on_minute": null,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S026"
+  ],
+  "evidence": [
+   {
+    "source_id": "S026",
+    "excerpt": "帅惟浩跟进补射又被扑出",
+    "excerpt_type": "quote",
+    "supports": [
+     "appearance"
+    ]
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "A101",
+  "player_id": "P0002",
+  "match_id": "M101",
+  "status": "sub_appeared",
+  "started": false,
+  "start_basis": null,
+  "sub_on_minute": 87,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 0,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S011"
+  ],
+  "evidence": [
+   {
+    "source_id": "S011",
+    "excerpt": "87分钟邝兆镭替换金永浩登场",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "sub_appeared",
+     "sub_on_minute"
+    ]
+   }
+  ],
+  "note": "上场时间来源未直接给出，保持为空。"
+ },
+ {
+  "id": "A102",
+  "player_id": "P0006",
+  "match_id": "M102",
+  "status": "sub_appeared",
+  "started": false,
+  "start_basis": null,
+  "sub_on_minute": 64,
+  "sub_off_minute": null,
+  "minutes_played": null,
+  "goals": 1,
+  "assists": 0,
+  "assists_lower_bound": false,
+  "stats_completeness": "complete",
+  "confidence": "high",
+  "source_ids": [
+   "S015"
+  ],
+  "evidence": [
+   {
+    "source_id": "S015",
+    "excerpt": "64分钟帅惟浩替换王子腾；90分钟帅惟浩进球",
+    "excerpt_type": "paraphrase",
+    "supports": [
+     "sub_appeared",
+     "sub_on_minute",
+     "goals"
+    ]
+   }
+  ],
+  "note": null
+ }
+]
